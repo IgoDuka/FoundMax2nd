@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Test_AKVELON\Test_AKVELON\bin\Debug\Test_AKVELON.exe.config
+C:\Users\hp\source\repos\Test_AKVELON\Test_AKVELON\bin\Debug\Test_AKVELON.exe
+C:\Users\hp\source\repos\Test_AKVELON\Test_AKVELON\bin\Debug\Test_AKVELON.pdb
+C:\Users\hp\source\repos\Test_AKVELON\Test_AKVELON\obj\Debug\Test_AKVELON.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Test_AKVELON\Test_AKVELON\obj\Debug\Test_AKVELON.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Test_AKVELON\Test_AKVELON\obj\Debug\Test_AKVELON.exe
+C:\Users\hp\source\repos\Test_AKVELON\Test_AKVELON\obj\Debug\Test_AKVELON.pdb
